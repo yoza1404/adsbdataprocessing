@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="mystyle00">
+<IconStyle id="1">
+<heading>0</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle01">
+<IconStyle id="1">
+<heading>5</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle02">
+<IconStyle id="1">
+<heading>10</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle03">
+<IconStyle id="1">
+<heading>15</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle04">
+<IconStyle id="1">
+<heading>20</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle05">
+<IconStyle id="1">
+<heading>25</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle06">
+<IconStyle id="1">
+<heading>30</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle07">
+<IconStyle id="1">
+<heading>35</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle08">
+<IconStyle id="1">
+<heading>40</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle09">
+<IconStyle id="1">
+<heading>45</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle10">
+<IconStyle id="1">
+<heading>50</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle11">
+<IconStyle id="1">
+<heading>55</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle12">
+<IconStyle id="1">
+<heading>60</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle13">
+<IconStyle id="1">
+<heading>65</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle14">
+<IconStyle id="1">
+<heading>70</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle15">
+<IconStyle id="1">
+<heading>75</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle16">
+<IconStyle id="1">
+<heading>80</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle17">
+<IconStyle id="1">
+<heading>85</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle18">
+<IconStyle id="1">
+<heading>90</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle19">
+<IconStyle id="1">
+<heading>95</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle20">
+<IconStyle id="1">
+<heading>100</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle21">
+<IconStyle id="1">
+<heading>105</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle22">
+<IconStyle id="1">
+<heading>110</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle23">
+<IconStyle id="1">
+<heading>115</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle24">
+<IconStyle id="1">
+<heading>120</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle25">
+<IconStyle id="1">
+<heading>125</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle26">
+<IconStyle id="1">
+<heading>130</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle27">
+<IconStyle id="1">
+<heading>135</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle28">
+<IconStyle id="1">
+<heading>140</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle29">
+<IconStyle id="1">
+<heading>145</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle30">
+<IconStyle id="1">
+<heading>150</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle31">
+<IconStyle id="1">
+<heading>155</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle32">
+<IconStyle id="1">
+<heading>160</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle33">
+<IconStyle id="1">
+<heading>165</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle34">
+<IconStyle id="1">
+<heading>170</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle35">
+<IconStyle id="1">
+<heading>175</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle36">
+<IconStyle id="1">
+<heading>180</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle37">
+<IconStyle id="1">
+<heading>185</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle38">
+<IconStyle id="1">
+<heading>190</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle39">
+<IconStyle id="1">
+<heading>195</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle40">
+<IconStyle id="1">
+<heading>200</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle41">
+<IconStyle id="1">
+<heading>205</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle42">
+<IconStyle id="1">
+<heading>210</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle43">
+<IconStyle id="1">
+<heading>215</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle44">
+<IconStyle id="1">
+<heading>220</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle45">
+<IconStyle id="1">
+<heading>225</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle46">
+<IconStyle id="1">
+<heading>230</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle47">
+<IconStyle id="1">
+<heading>235</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle48">
+<IconStyle id="1">
+<heading>240</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle49">
+<IconStyle id="1">
+<heading>245</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle50">
+<IconStyle id="1">
+<heading>250</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle51">
+<IconStyle id="1">
+<heading>255</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle52">
+<IconStyle id="1">
+<heading>260</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle53">
+<IconStyle id="1">
+<heading>265</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle54">
+<IconStyle id="1">
+<heading>270</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle55">
+<IconStyle id="1">
+<heading>275</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle56">
+<IconStyle id="1">
+<heading>280</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle57">
+<IconStyle id="1">
+<heading>285</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle58">
+<IconStyle id="1">
+<heading>290</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle59">
+<IconStyle id="1">
+<heading>295</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle60">
+<IconStyle id="1">
+<heading>300</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle61">
+<IconStyle id="1">
+<heading>305</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle62">
+<IconStyle id="1">
+<heading>310</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle63">
+<IconStyle id="1">
+<heading>315</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle64">
+<IconStyle id="1">
+<heading>320</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle65">
+<IconStyle id="1">
+<heading>325</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle66">
+<IconStyle id="1">
+<heading>330</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle67">
+<IconStyle id="1">
+<heading>335</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle68">
+<IconStyle id="1">
+<heading>340</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle69">
+<IconStyle id="1">
+<heading>345</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle70">
+<IconStyle id="1">
+<heading>350</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>
+<Style id="mystyle71">
+<IconStyle id="1">
+<heading>355</heading>
+<scale>0.75</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal2/icon56.png</href>
+</Icon>
+</IconStyle>
+<LineStyle>
+<color>7F7F7F7F</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle>
+<color>b000ff00</color>
+</PolyStyle>
+</Style>

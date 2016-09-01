@@ -1,0 +1,1 @@
+<Style id="mystyle72"> <LineStyle> <color>FFFFFFFF</color> <width>10</width> </LineStyle></Style>
